@@ -1,0 +1,21 @@
+mat-card {
+    margin:5px;
+  }
+  
+  form {
+    width: 50%;
+    margin: auto;
+    display: grid;
+  }
+  
+  button{
+    width: 20%;
+    margin: 5px;
+  }
+  
+  mat-spinner {
+    margin: auto;
+  }
+  /*textarea {*/
+  /*  width:100%;*/
+  /*}*/
